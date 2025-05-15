@@ -1,6 +1,6 @@
 // Função para atualizar o contador de tempo 
 function updateTimer() {
-  const startDate = new Date("2025-02-23T00:00:00");
+  const startDate = new Date("2025-01-23T00:00:00");
   const now = new Date();
   const diff = now - startDate;
 
